@@ -203,4 +203,8 @@ You are required to submit the following:
 The URL of the GitHub repository
 
 
+<<<<<<< HEAD
 Optional: GIF of your CLI applications functionality
+=======
+Optional: GIF of your CLI applications functionality
+>>>>>>> 710e9e7443a8e17263cac437ffdc6981902dafac
